@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<link rel='stylesheet' type='text/css'href='style.css'>
+<meta charset='UTF-8'>
+
+<b><h1>Annapurna </h1></b>
+<br></br>
+<table border='5'>
+<tr>
+<td>Altitud:8091m
+</tr>
+<tr>
+<td>Localización: cordillera del Himalaya(Nepal)
+</tr>
+<tr>
+<td>Coordenadas:<a href=https://www.google.es/maps/place/Annapurna/@28.596111,83.8180893,1016m/data=!3m2!1e3!4b1!4m5!3m4!1s0x39be1c44051f84f7:0x941cbed25f0b39fb!8m2!3d28.596111!4d83.820278?hl=en>28°35′46″N 83°49′13″E </a> gh
+</tr>
+</table>
+
+</body>
+</link>
+<p align='center'><a href='../index.html'><img src='../figuras/inicio.gif' widther='50' height= '50'></a></p>
+</html>
